@@ -4,8 +4,6 @@
 [Licencia Feminista de Producción de Pares](https://labekka.red/licencia-f2f/)
   
 
-
-
 ![reudo](https://media.giphy.com/media/l3E6NUe6XgK41gKMo/giphy.gif)  
 
 >“Un cyborg es un organismo cibernético, un híbrido de máquina y organismo, una criatura de realidad social y también de ficción”  
@@ -42,12 +40,20 @@ Proyectos referencia.
 Propuesta de herramientas.
 
 - SuperCollider
-- TidalCicles
-- Hydra 
-- P5js
+- [TidalCycles](https://tidalcycles.org/Welcome)
+- [Hydra](https://hydra.ojack.xyz/) 
+- [p5live](https://teddavis.org/p5live/) 
+- [OBS](https://obsproject.com/es)
 
 Fabulaciones críticas.
 - [Venus en dos actos](https://hemisphericinstitute.org/en/emisferica-91/9-1-essays/venus-en-dos-actos.html), Saidiya Hartman.  
+
+
+Código y textualidades sonoras. 
+- [Introducción a SuperCollider](https://github.com/MarianneTeixido/hackcode2.0/blob/master/sesion01/s01.scd)
+
+
+Pendiente para la siguiente sesión. Traer muestras de audio, imagen y/o video con las que queramos trabajar y controladores MIDI en caso de tenerlos. 
 
 
 
