@@ -61,9 +61,9 @@ Pendiente para la siguiente sesión. Traer muestras de audio, imagen y/o video c
 
 #### SuperCollider  
  
-	- [ProxySpace y MIDI](https://github.com/MarianneTeixido/hackcode2.0/blob/master/sesion03/s03.scd)
-	- Gabar audio. Dar clic derecho sobre la información de lx servxr. Selección 'start recording', 'stop recording' para detener. 
-	- Las grabaciones se almacenan en .local > share > SuperCollider > Recordings. 
+- [ProxySpace y MIDI](https://github.com/MarianneTeixido/hackcode2.0/blob/master/sesion03/s03.scd)
+-  Gabar audio. Dar clic derecho sobre la información de lx servxr. Selección 'start recording', 'stop recording' para detener. 
+-  Las grabaciones se almacenan en .local > share > SuperCollider > Recordings. 
 	
 	
 #### Hydra
