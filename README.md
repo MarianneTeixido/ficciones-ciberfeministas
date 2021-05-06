@@ -55,7 +55,41 @@ Código y textualidades sonoras.
 
 Pendiente para la siguiente sesión. Traer muestras de audio, imagen y/o video con las que queramos trabajar y controladores MIDI en caso de tenerlos. 
 
+### Sesión II
 
+- Delimitar proyectos.  
 
+#### SuperCollider  
+ 
+	- [ProxySpace y MIDI](https://github.com/MarianneTeixido/hackcode2.0/blob/master/sesion03/s03.scd)
+	- Gabar audio. Dar clic derecho sobre la información de lx servxr. Selección 'start recording', 'stop recording' para detener. 
+	- Las grabaciones se almacenan en .local > share > SuperCollider > Recordings. 
+	
+	
+#### Hydra
 
+Hydra es una plataforma para hacer visuales con programación al vuelo, en el que cada ventana del navegador conectado se puede utilizar como un nodo de un sintetizador de vídeo modular y distribuido. 
+
+[Hydra](https://hydra.ojack.xyz/?sketch_id=marianne_0) fue creado por [Olivia](https://twitter.com/_ojack_) <3
+
+- [Documentación](https://github.com/ojack/hydra#Getting-Started) 
+- Código ejemplo. 
+	- [Tomar una pantalla como fuente de entrada](https://gist.github.com/MarianneTeixido/f27d5871a1157244d5f6df572eff3761) 
+
+#### OBS.  
+
+- Grabación. 
+	- Determinar carpeta de almacenamiento en: Ajustes > Salida > Grabación > Ruta de grabación > Examinar.  
+	- Seleccionar carpeta.
+	- Definir formato de grabación: mp4, mov, m4v. 
+	- Bitrate de video 5000 Kbps
+	- Codec h264
+	- Bitrate de audio 320
+- Resolución
+	- 1920x1920
+	- 60 fps
+	
+- Fuentes 
+	- Agregar captura de pantalla
+ 
 
